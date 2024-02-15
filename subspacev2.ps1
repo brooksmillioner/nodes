@@ -1,3 +1,4 @@
+write-host -Object "Спасибо за использование гайда t.me/blogbrooksmoney" -BackgroundColor White -ForegroundColor DarkGreen
 write-host "================================================================================"
 write-host "Enter the letter of the drive where you want to install Subspace. For example D"
 write-host "================================================================================"
